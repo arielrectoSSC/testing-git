@@ -12,7 +12,7 @@ if 5>2:
 
 
 
-    
+
 #Variables
 w=3.14
 x=5 
